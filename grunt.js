@@ -151,7 +151,7 @@ module.exports = function( grunt ) {
 			runMax: config.runMax,
 			"runNames[]": tests,
 			"runUrls[]": testUrls,
-			"browserSets[]": ["popular"]
+			"browserSets[]": ["default"]
 		});
 	});
 

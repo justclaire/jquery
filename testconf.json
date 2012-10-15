@@ -1,0 +1,9 @@
+{
+        "jquery": {
+                "authUsername": "admin",
+                "authToken": "f059de31b0b9ba87a3390c844d707c2c3d756e5b",
+                "swarmUrl": "http://localhost/testswarm",
+                "testUrl": "http://localhost/testswarm/build/jquery/",
+                "runMax": 2 
+        }
+}
